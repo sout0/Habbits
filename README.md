@@ -25,6 +25,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 O Habbit é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://sout0.github.io/Habbits/)
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
